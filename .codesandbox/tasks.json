@@ -1,0 +1,15 @@
+{
+  "setupTasks": [],
+  "tasks": {
+    "hello": {
+      "name": "Hello world",
+      "command": "echo 'hello world'",
+      "runAtStart": true
+    },
+    "list_files": {
+      "name": "List files",
+      "command": "ls -ls",
+      "runAtStart": true
+    }
+  }
+}
